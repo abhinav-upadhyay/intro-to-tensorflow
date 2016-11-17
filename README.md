@@ -1,2 +1,1 @@
-# intro-to-tensorflow
-Introduction to TensorFlow
+Notebooks for a session I gave on introduction to TensorFlow at my office.
